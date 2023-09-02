@@ -7,7 +7,7 @@ intro:
   description: >-
     Onze meal prep producten zijn zorgvuldig samengesteld en bieden de hoogste kwaliteit.
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/main_new.jpg
       text: >
         Glazen meal prep bakjes 
         ✓ 4 stuks, kwaliteit boven kwantiteit. 
@@ -15,7 +15,7 @@ intro:
         ✓ Hoog kwaliteit glas, gaat lang mee; 
         ✓ Deksel met kliksysteem. Luchtdicht en leak proof! 
         ✓ In de deksel heb je ruimte voor bestek. Makkelijk voor onderweg!
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/main-pic_v2.jpg
       text: >
         Plastic meal prep bakjes
         ✓ 14 stuks. Zodat je precies voor de hele week bent voorbereid! Kwaliteit boven kwantiteit.
